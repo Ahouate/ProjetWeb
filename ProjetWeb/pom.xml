@@ -54,7 +54,7 @@
                 <groupId>com.heroku.sdk</groupId>
                 <artifactId>heroku-maven-plugin</artifactId>
                 <configuration>
-                    <appName>ProjetWeb-1.0</appName>
+                    <appName>projetweb</appName>
                 </configuration>
             </plugin>
 
