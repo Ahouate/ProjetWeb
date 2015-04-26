@@ -2,7 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb1faca7-814a-48cc-a6e2-1747360e16e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Competances.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Experiences_pro.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Formations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Langues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Loisirs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Resume/Projets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/projetweb-1/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/projetweb-1/index.html" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\ASSEMBLY_EXCEPTION" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\THIRD_PARTY_README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\appletviewer" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\extcheck" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\idlj" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jarsigner" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\java-rmi.cgi" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\javac" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\javadoc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\javah" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\javap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jcmd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jconsole" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jdb" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jdeps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jhat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jinfo" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jjs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jmap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jrunscript" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jsadebugd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jstack" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jstat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\jstatd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\keytool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\native2ascii" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\orbd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\pack200" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\policytool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\rmic" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\rmid" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\rmiregistry" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\schemagen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\serialver" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\servertool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\tnameserv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\unpack200" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\wsgen" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\wsimport" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\bin\xjc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\classfile_constants.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\jawt.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\jdwpTransport.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\jni.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\jvmti.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\jvmticmlr.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\linux\jawt_md.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\include\linux\jni_md.h" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\ASSEMBLY_EXCEPTION" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\THIRD_PARTY_README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\jjs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\keytool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\orbd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\pack200" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\policytool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\rmid" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\rmiregistry" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\servertool" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\tnameserv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\bin\unpack200" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\jli\libjli.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\jvm.cfg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libattach.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libawt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libawt_headless.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libawt_xawt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libdt_socket.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libfontmanager.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libhprof.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libinstrument.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libj2gss.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libj2pcsc.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libj2pkcs11.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjaas_unix.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjava.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjava_crw_demo.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjawt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjdwp.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjpeg.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjsdt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjsig.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjsound.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libjsoundalsa.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\liblcms.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libmanagement.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libmlib_image.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libnet.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libnio.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libnpt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libsaproc.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libsctp.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libsplashscreen.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libsunec.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libunpack.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libverify.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\libzip.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\server\Xusage.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\server\libjsig.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\amd64\server\libjvm.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\calendars.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\classlist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\cmm\CIEXYZ.pf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\cmm\GRAY.pf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\cmm\LINEAR_RGB.pf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\cmm\PYCC.pf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\cmm\sRGB.pf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\content-types.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\currency.data" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\ext\meta-index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\flavormap.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\hijrah-config-umalqura.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\cursors.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\invalid32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_CopyDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_CopyNoDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_LinkDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_LinkNoDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_MoveDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\images\cursors\motif_MoveNoDrop32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\jexec" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\jvm.hprof.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\management\jmxremote.access" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\management\jmxremote.password.template" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\management\management.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\management\snmp.acl.template" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\meta-index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\net.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\psfont.properties.ja" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\psfontj2d.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\security\blacklisted.certs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\security\cacerts" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\security\java.policy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\security\java.security" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\sound.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\jre\lib\tzdb.dat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\amd64\jli\libjli.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\amd64\libjawt.so" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\ct.sym" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\ir.idl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\jexec" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\lib\orb.idl" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.jdk\release" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.profile.d\jvmcommon.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.startup\with_jmap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\.startup\with_jstack" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\app\system.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\jdk-1.8-AE875A3A4C4753A3A079C9CFDE91B82A.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Abdel\Documents\ProjetWeb\ProjetWeb\target\heroku\slug.tgz" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Resume/Cv.java" afterPath="$PROJECT_DIR$/src/main/java/Resume/Cv.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Resume/ListeCv.java" afterPath="$PROJECT_DIR$/src/main/java/Resume/ListeCv.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Resume/XMLController.java" afterPath="$PROJECT_DIR$/src/main/java/Resume/XMLController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Web2TP2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +198,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Cv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1224">
-              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1190">
+              <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -42,78 +212,72 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="35" column="15" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+      <file leaf-file-name="Formations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="Competances.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Competances.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cv.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+      <file leaf-file-name="Competance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Competance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XMLController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="XMLController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1309">
-              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-              <folding />
+            <state vertical-scroll-proportion="0.7962329" vertical-offset="929" max-vertical-offset="1564">
+              <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+              <folding>
+                <element signature="e#2140#2148#0" expanded="true" />
+                <element signature="e#2322#2330#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file leaf-file-name="ListeCv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Resume/ListeCv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="context.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="680">
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+              <folding>
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,15 +299,21 @@
         <option value="$PROJECT_DIR$/src/main/java/Competance.java" />
         <option value="$PROJECT_DIR$/src/main/java/XMLController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Resume/Cv.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Resume/ListeCv.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Resume/XMLController.java" />
         <option value="$PROJECT_DIR$/ProjetWeb/Procfile" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Formations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Competances.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Loisirs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Projets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Experiences_pro.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Langues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/Cv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/ListeCv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Resume/XMLController.java" />
       </list>
     </option>
   </component>
@@ -186,7 +356,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -344,6 +513,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,6 +758,229 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="663">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1224">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="561">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1496">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1309">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+          <folding>
+            <element signature="e#2140#2148#0" expanded="true" />
+            <element signature="e#2322#2330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="663">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1224">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="561">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1496">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1309">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+          <folding>
+            <element signature="e#2140#2148#0" expanded="true" />
+            <element signature="e#2322#2330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="663">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1224">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="629">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="119">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="561">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1496">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1309">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+          <folding>
+            <element signature="e#2140#2148#0" expanded="true" />
+            <element signature="e#2322#2330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="663">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1360">
@@ -627,35 +1020,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1224">
-          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -667,26 +1035,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1224">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="1309">
-          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Experience_pro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.23287672" vertical-offset="0" max-vertical-offset="629">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -696,6 +1064,142 @@
         <state vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
           <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1849315" vertical-offset="79" max-vertical-offset="663">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Loisirs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7568493" vertical-offset="0" max-vertical-offset="612">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Projets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58219177" vertical-offset="0" max-vertical-offset="584">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Projet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23287672" vertical-offset="0" max-vertical-offset="629">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Experiences_pro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55308217" vertical-offset="0" max-vertical-offset="584">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Langues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58219177" vertical-offset="0" max-vertical-offset="584">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1190">
+          <caret line="78" column="54" selection-start-line="78" selection-start-column="54" selection-end-line="78" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Formations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Competances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/Competance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/ListeCv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="680">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Resume/XMLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7962329" vertical-offset="929" max-vertical-offset="1564">
+          <caret line="93" column="34" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+          <folding>
+            <element signature="e#2140#2148#0" expanded="true" />
+            <element signature="e#2322#2330#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
